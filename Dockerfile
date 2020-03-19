@@ -1,7 +1,7 @@
 FROM jsurf/rpi-raspbian:stretch
 
 # Jenkins version
-ENV JENKINS_VERSION 2.204.2
+ENV JENKINS_VERSION 2.204.5
 
 # Other env variables
 ENV JENKINS_HOME /var/jenkins_home
